@@ -1,4 +1,4 @@
-# <div align="center">👋 hi, i'm lanes!</div>
+# <div align="center">👋 hi, i'm althea!</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
